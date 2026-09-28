@@ -1,0 +1,474 @@
+generated: '2026-09-28'
+method: derived
+source: the pre-flight dossier, apis.yml pointers, spec servers, well-known, vendors -- nothing fetched here
+generator: derive-hosts.py
+summary:
+  hosts: 50
+  own: 50
+  other_domain: 0
+  platform: 0
+  roles:
+  - api
+  - other
+  - website
+hosts:
+- host: af.bioengine-global.com
+  found_by:
+  - docs-index
+  types: []
+  serves:
+  - docs
+  registrable_domain: bioengine-global.com
+  role: other
+  relation: own
+- host: api.bioengine-global.com
+  found_by:
+  - contract-discovery
+  types: []
+  serves: []
+  registrable_domain: bioengine-global.com
+  role: api
+  relation: own
+- host: ar.bioengine-global.com
+  found_by:
+  - docs-index
+  types: []
+  serves:
+  - docs
+  registrable_domain: bioengine-global.com
+  role: other
+  relation: own
+- host: ba.bioengine-global.com
+  found_by:
+  - docs-index
+  types: []
+  serves:
+  - docs
+  registrable_domain: bioengine-global.com
+  role: other
+  relation: own
+- host: bg.bioengine-global.com
+  found_by:
+  - docs-index
+  types: []
+  serves:
+  - docs
+  registrable_domain: bioengine-global.com
+  role: other
+  relation: own
+- host: ca.bioengine-global.com
+  found_by:
+  - docs-index
+  types: []
+  serves:
+  - docs
+  registrable_domain: bioengine-global.com
+  role: other
+  relation: own
+- host: cn.bioengine-global.com
+  found_by:
+  - docs-index
+  types: []
+  serves:
+  - docs
+  registrable_domain: bioengine-global.com
+  role: other
+  relation: own
+- host: cy.bioengine-global.com
+  found_by:
+  - docs-index
+  types: []
+  serves:
+  - docs
+  registrable_domain: bioengine-global.com
+  role: other
+  relation: own
+- host: cz.bioengine-global.com
+  found_by:
+  - docs-index
+  types: []
+  serves:
+  - docs
+  registrable_domain: bioengine-global.com
+  role: other
+  relation: own
+- host: de.bioengine-global.com
+  found_by:
+  - docs-index
+  types: []
+  serves:
+  - docs
+  registrable_domain: bioengine-global.com
+  role: other
+  relation: own
+- host: dk.bioengine-global.com
+  found_by:
+  - docs-index
+  types: []
+  serves:
+  - docs
+  registrable_domain: bioengine-global.com
+  role: other
+  relation: own
+- host: ee.bioengine-global.com
+  found_by:
+  - docs-index
+  types: []
+  serves:
+  - docs
+  registrable_domain: bioengine-global.com
+  role: other
+  relation: own
+- host: es.bioengine-global.com
+  found_by:
+  - docs-index
+  types: []
+  serves:
+  - docs
+  registrable_domain: bioengine-global.com
+  role: other
+  relation: own
+- host: fi.bioengine-global.com
+  found_by:
+  - docs-index
+  types: []
+  serves:
+  - docs
+  registrable_domain: bioengine-global.com
+  role: other
+  relation: own
+- host: fj.bioengine-global.com
+  found_by:
+  - docs-index
+  types: []
+  serves:
+  - docs
+  registrable_domain: bioengine-global.com
+  role: other
+  relation: own
+- host: fr.bioengine-global.com
+  found_by:
+  - docs-index
+  types: []
+  serves:
+  - docs
+  registrable_domain: bioengine-global.com
+  role: other
+  relation: own
+- host: gr.bioengine-global.com
+  found_by:
+  - docs-index
+  types: []
+  serves:
+  - docs
+  registrable_domain: bioengine-global.com
+  role: other
+  relation: own
+- host: hr.bioengine-global.com
+  found_by:
+  - docs-index
+  types: []
+  serves:
+  - docs
+  registrable_domain: bioengine-global.com
+  role: other
+  relation: own
+- host: ht.bioengine-global.com
+  found_by:
+  - docs-index
+  types: []
+  serves:
+  - docs
+  registrable_domain: bioengine-global.com
+  role: other
+  relation: own
+- host: hu.bioengine-global.com
+  found_by:
+  - docs-index
+  types: []
+  serves:
+  - docs
+  registrable_domain: bioengine-global.com
+  role: other
+  relation: own
+- host: id.bioengine-global.com
+  found_by:
+  - docs-index
+  types: []
+  serves:
+  - docs
+  registrable_domain: bioengine-global.com
+  role: other
+  relation: own
+- host: il.bioengine-global.com
+  found_by:
+  - docs-index
+  types: []
+  serves:
+  - docs
+  registrable_domain: bioengine-global.com
+  role: other
+  relation: own
+- host: it.bioengine-global.com
+  found_by:
+  - docs-index
+  types: []
+  serves:
+  - docs
+  registrable_domain: bioengine-global.com
+  role: other
+  relation: own
+- host: ja.bioengine-global.com
+  found_by:
+  - docs-index
+  types: []
+  serves:
+  - docs
+  registrable_domain: bioengine-global.com
+  role: other
+  relation: own
+- host: ko.bioengine-global.com
+  found_by:
+  - docs-index
+  types: []
+  serves:
+  - docs
+  registrable_domain: bioengine-global.com
+  role: other
+  relation: own
+- host: lt.bioengine-global.com
+  found_by:
+  - docs-index
+  types: []
+  serves:
+  - docs
+  registrable_domain: bioengine-global.com
+  role: other
+  relation: own
+- host: lv.bioengine-global.com
+  found_by:
+  - docs-index
+  types: []
+  serves:
+  - docs
+  registrable_domain: bioengine-global.com
+  role: other
+  relation: own
+- host: mt.bioengine-global.com
+  found_by:
+  - docs-index
+  types: []
+  serves:
+  - docs
+  registrable_domain: bioengine-global.com
+  role: other
+  relation: own
+- host: mww.bioengine-global.com
+  found_by:
+  - docs-index
+  types: []
+  serves:
+  - docs
+  registrable_domain: bioengine-global.com
+  role: other
+  relation: own
+- host: my.bioengine-global.com
+  found_by:
+  - docs-index
+  types: []
+  serves:
+  - docs
+  registrable_domain: bioengine-global.com
+  role: other
+  relation: own
+- host: nl.bioengine-global.com
+  found_by:
+  - docs-index
+  types: []
+  serves:
+  - docs
+  registrable_domain: bioengine-global.com
+  role: other
+  relation: own
+- host: no.bioengine-global.com
+  found_by:
+  - docs-index
+  types: []
+  serves:
+  - docs
+  registrable_domain: bioengine-global.com
+  role: other
+  relation: own
+- host: otq.bioengine-global.com
+  found_by:
+  - docs-index
+  types: []
+  serves:
+  - docs
+  registrable_domain: bioengine-global.com
+  role: other
+  relation: own
+- host: pk.bioengine-global.com
+  found_by:
+  - docs-index
+  types: []
+  serves:
+  - docs
+  registrable_domain: bioengine-global.com
+  role: other
+  relation: own
+- host: pl.bioengine-global.com
+  found_by:
+  - docs-index
+  types: []
+  serves:
+  - docs
+  registrable_domain: bioengine-global.com
+  role: other
+  relation: own
+- host: pt.bioengine-global.com
+  found_by:
+  - docs-index
+  types: []
+  serves:
+  - docs
+  registrable_domain: bioengine-global.com
+  role: other
+  relation: own
+- host: ro.bioengine-global.com
+  found_by:
+  - docs-index
+  types: []
+  serves:
+  - docs
+  registrable_domain: bioengine-global.com
+  role: other
+  relation: own
+- host: ru.bioengine-global.com
+  found_by:
+  - docs-index
+  types: []
+  serves:
+  - docs
+  registrable_domain: bioengine-global.com
+  role: other
+  relation: own
+- host: se.bioengine-global.com
+  found_by:
+  - docs-index
+  types: []
+  serves:
+  - docs
+  registrable_domain: bioengine-global.com
+  role: other
+  relation: own
+- host: si.bioengine-global.com
+  found_by:
+  - docs-index
+  types: []
+  serves:
+  - docs
+  registrable_domain: bioengine-global.com
+  role: other
+  relation: own
+- host: sk.bioengine-global.com
+  found_by:
+  - docs-index
+  types: []
+  serves:
+  - docs
+  registrable_domain: bioengine-global.com
+  role: other
+  relation: own
+- host: srcyrl.bioengine-global.com
+  found_by:
+  - docs-index
+  types: []
+  serves:
+  - docs
+  registrable_domain: bioengine-global.com
+  role: other
+  relation: own
+- host: srla.bioengine-global.com
+  found_by:
+  - docs-index
+  types: []
+  serves:
+  - docs
+  registrable_domain: bioengine-global.com
+  role: other
+  relation: own
+- host: th.bioengine-global.com
+  found_by:
+  - docs-index
+  types: []
+  serves:
+  - docs
+  registrable_domain: bioengine-global.com
+  role: other
+  relation: own
+- host: tlh.bioengine-global.com
+  found_by:
+  - docs-index
+  types: []
+  serves:
+  - docs
+  registrable_domain: bioengine-global.com
+  role: other
+  relation: own
+- host: tr.bioengine-global.com
+  found_by:
+  - docs-index
+  types: []
+  serves:
+  - docs
+  registrable_domain: bioengine-global.com
+  role: other
+  relation: own
+- host: ua.bioengine-global.com
+  found_by:
+  - docs-index
+  types: []
+  serves:
+  - docs
+  registrable_domain: bioengine-global.com
+  role: other
+  relation: own
+- host: vn.bioengine-global.com
+  found_by:
+  - docs-index
+  types: []
+  serves:
+  - docs
+  registrable_domain: bioengine-global.com
+  role: other
+  relation: own
+- host: www.bioengine-global.com
+  found_by:
+  - pointer
+  - probed
+  - docs-index
+  - contract-discovery
+  - well-known
+  - vendor-detect
+  types:
+  - Newsroom
+  - Website
+  - ContactUs
+  - Careers
+  serves:
+  - docs
+  - cdn
+  vendor: cloudflare
+  registrable_domain: bioengine-global.com
+  role: website
+  relation: own
+- host: yua.bioengine-global.com
+  found_by:
+  - docs-index
+  types: []
+  serves:
+  - docs
+  registrable_domain: bioengine-global.com
+  role: other
+  relation: own

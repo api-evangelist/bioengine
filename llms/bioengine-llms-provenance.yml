@@ -1,0 +1,6 @@
+generated: '2026-09-28'
+method: probed
+generator: harvest-llms.py
+source: https://www.bioengine-global.com/llms.txt
+bytes: 24630
+note: saved verbatim; the provider's own document
